@@ -12,3 +12,4 @@ C:\projects\TopBanner\TopBanner\obj\Debug\net8.0-windows\refint\TopBanner.dll
 C:\projects\TopBanner\TopBanner\obj\Debug\net8.0-windows\TopBanner.pdb
 C:\projects\TopBanner\TopBanner\obj\Debug\net8.0-windows\TopBanner.genruntimeconfig.cache
 C:\projects\TopBanner\TopBanner\obj\Debug\net8.0-windows\ref\TopBanner.dll
+C:\projects\TopBanner\TopBanner\obj\Debug\net8.0-windows\TopBanner.sourcelink.json
