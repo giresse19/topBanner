@@ -1,0 +1,5 @@
+C:\projects\TopBanner\TopBanner\bin\Release\net8.0-windows\publish\TopBanner.exe
+C:\projects\TopBanner\TopBanner\bin\Release\net8.0-windows\publish\TopBanner.dll
+C:\projects\TopBanner\TopBanner\bin\Release\net8.0-windows\publish\TopBanner.deps.json
+C:\projects\TopBanner\TopBanner\bin\Release\net8.0-windows\publish\TopBanner.runtimeconfig.json
+C:\projects\TopBanner\TopBanner\bin\Release\net8.0-windows\publish\TopBanner.pdb

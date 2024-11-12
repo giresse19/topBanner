@@ -1,0 +1,15 @@
+C:\projects\TopBanner\TopBanner\bin\Release\net8.0-windows\TopBanner.exe
+C:\projects\TopBanner\TopBanner\bin\Release\net8.0-windows\TopBanner.deps.json
+C:\projects\TopBanner\TopBanner\bin\Release\net8.0-windows\TopBanner.runtimeconfig.json
+C:\projects\TopBanner\TopBanner\bin\Release\net8.0-windows\TopBanner.dll
+C:\projects\TopBanner\TopBanner\bin\Release\net8.0-windows\TopBanner.pdb
+C:\projects\TopBanner\TopBanner\obj\Release\net8.0-windows\TopBanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\TopBanner\TopBanner\obj\Release\net8.0-windows\TopBanner.AssemblyInfoInputs.cache
+C:\projects\TopBanner\TopBanner\obj\Release\net8.0-windows\TopBanner.AssemblyInfo.cs
+C:\projects\TopBanner\TopBanner\obj\Release\net8.0-windows\TopBanner.csproj.CoreCompileInputs.cache
+C:\projects\TopBanner\TopBanner\obj\Release\net8.0-windows\TopBanner.sourcelink.json
+C:\projects\TopBanner\TopBanner\obj\Release\net8.0-windows\TopBanner.dll
+C:\projects\TopBanner\TopBanner\obj\Release\net8.0-windows\refint\TopBanner.dll
+C:\projects\TopBanner\TopBanner\obj\Release\net8.0-windows\TopBanner.pdb
+C:\projects\TopBanner\TopBanner\obj\Release\net8.0-windows\TopBanner.genruntimeconfig.cache
+C:\projects\TopBanner\TopBanner\obj\Release\net8.0-windows\ref\TopBanner.dll

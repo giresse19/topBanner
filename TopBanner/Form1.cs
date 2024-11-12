@@ -26,7 +26,7 @@ public partial class Form1 : Form {
         linkLabel = new LinkLabel();
                
         linkLabel.Name = "Paperfree";
-        linkLabel.Text = "Loading URL..."; 
+        linkLabel.Text = ""; 
         linkLabel.Font = new Font("Arial", 12, FontStyle.Bold); 
         linkLabel.AutoSize = true;
         linkLabel.LinkColor = Color.Navy;
