@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopBanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ef4899f8db72a95afe0ae935acffa1fed58efd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55d822ba407d96deb4925783bf1d88ab0de9b65e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopBanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopBanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

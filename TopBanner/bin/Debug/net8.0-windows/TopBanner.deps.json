@@ -7,8 +7,39 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "TopBanner/1.0.0": {
+        "dependencies": {
+          "Interop.UIAutomationClient": "10.19041.0",
+          "Interop.UIAutomationClient.Signed": "10.19041.0",
+          "UIAutomationClient.FluentExtensions": "0.1.9",
+          "UniversalUIAClass": "1.0.2"
+        },
         "runtime": {
           "TopBanner.dll": {}
+        }
+      },
+      "Interop.UIAutomationClient/10.19041.0": {
+        "runtime": {
+          "lib/netcoreapp3.0/Interop.UIAutomationClient.dll": {
+            "assemblyVersion": "10.0.19041.0",
+            "fileVersion": "10.0.19041.0"
+          }
+        }
+      },
+      "Interop.UIAutomationClient.Signed/10.19041.0": {},
+      "UIAutomationClient.FluentExtensions/0.1.9": {
+        "runtime": {
+          "lib/net461/UIAutomationClient.FluentExtensions.dll": {
+            "assemblyVersion": "0.1.6799.6470",
+            "fileVersion": "0.1.0.0"
+          }
+        }
+      },
+      "UniversalUIAClass/1.0.2": {
+        "runtime": {
+          "lib/net6.0-windows7.0/UniversalUIAClass.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
         }
       }
     }
@@ -18,6 +49,34 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Interop.UIAutomationClient/10.19041.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Me5vKNZ1JSg6txTsPQXaWx7fVNh+fmcUPPwtDKJtqvbMM0N8aoa/l/QPolkJIRnasCabCNt4v2zG4p1Q9HU98A==",
+      "path": "interop.uiautomationclient/10.19041.0",
+      "hashPath": "interop.uiautomationclient.10.19041.0.nupkg.sha512"
+    },
+    "Interop.UIAutomationClient.Signed/10.19041.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F/C8AyzpqOSppZgl8DXxfhoS60IhoVLLF4goNT5HjRR+Z36c+4vQ9CHFdNWZ9Xwo63/mF5m1SxSplLCCqNOIcg==",
+      "path": "interop.uiautomationclient.signed/10.19041.0",
+      "hashPath": "interop.uiautomationclient.signed.10.19041.0.nupkg.sha512"
+    },
+    "UIAutomationClient.FluentExtensions/0.1.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YOD7yntATWdI8cIBTaPy5eN/0uf50A3wo41epUN5E9jiw6fsGSj8y3qqPLt0DdVpfBo/KnPGAozya34k5Ds0jw==",
+      "path": "uiautomationclient.fluentextensions/0.1.9",
+      "hashPath": "uiautomationclient.fluentextensions.0.1.9.nupkg.sha512"
+    },
+    "UniversalUIAClass/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F1WKLUCRu88aDjXXYKui50HDD4yV2X5Amcmwlq/upEdJ2Eq52iOIcSt50ToGX5nZkRPJr8vhiSxuXOfa+rrpXg==",
+      "path": "universaluiaclass/1.0.2",
+      "hashPath": "universaluiaclass.1.0.2.nupkg.sha512"
     }
   }
 }

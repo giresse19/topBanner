@@ -2,10 +2,25 @@
 
     <PropertyGroup>
         <OutputType>WinExe</OutputType>
-        <TargetFramework>net8.0-windows</TargetFramework>
+        <TargetFramework>net481</TargetFramework>
         <Nullable>enable</Nullable>
         <UseWindowsForms>true</UseWindowsForms>
         <ImplicitUsings>enable</ImplicitUsings>
+        <LangVersion>10.0</LangVersion> <!-- Set C# version to 8.0 -->
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Automation" Version="1.0.2" />
+      <PackageReference Include="Interop.UIAutomationClient" Version="10.19041.0" />
+      <PackageReference Include="Interop.UIAutomationClient.Signed" Version="10.19041.0" />
+      <PackageReference Include="UIAutomationClient.FluentExtensions" Version="0.1.9" />
+        <Reference Include="UIAutomationClient">
+            <HintPath>C:\Windows\Microsoft.NET\Framework\v4.0.30319\UIAutomationClient.dll</HintPath>
+        </Reference>
+        <Reference Include="UIAutomationTypes">
+            <HintPath>C:\Windows\Microsoft.NET\Framework\v4.0.30319\UIAutomationTypes.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+
 </Project>
+

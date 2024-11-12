@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "OT2oBO43Sb0=",
+  "dgSpecHash": "NUQwkh6LYF0=",
   "success": true,
   "projectFilePath": "C:\\projects\\TopBanner\\TopBanner\\TopBanner.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ajano\\.nuget\\packages\\automation\\1.0.2\\automation.1.0.2.nupkg.sha512",
+    "C:\\Users\\ajano\\.nuget\\packages\\interop.uiautomationclient\\10.19041.0\\interop.uiautomationclient.10.19041.0.nupkg.sha512",
+    "C:\\Users\\ajano\\.nuget\\packages\\interop.uiautomationclient.signed\\10.19041.0\\interop.uiautomationclient.signed.10.19041.0.nupkg.sha512",
+    "C:\\Users\\ajano\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\ajano\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net481\\1.0.3\\microsoft.netframework.referenceassemblies.net481.1.0.3.nupkg.sha512",
+    "C:\\Users\\ajano\\.nuget\\packages\\uiautomationclient.fluentextensions\\0.1.9\\uiautomationclient.fluentextensions.0.1.9.nupkg.sha512"
+  ],
   "logs": []
 }

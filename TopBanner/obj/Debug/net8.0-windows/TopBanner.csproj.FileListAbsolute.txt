@@ -13,3 +13,8 @@ C:\projects\TopBanner\TopBanner\obj\Debug\net8.0-windows\TopBanner.pdb
 C:\projects\TopBanner\TopBanner\obj\Debug\net8.0-windows\TopBanner.genruntimeconfig.cache
 C:\projects\TopBanner\TopBanner\obj\Debug\net8.0-windows\ref\TopBanner.dll
 C:\projects\TopBanner\TopBanner\obj\Debug\net8.0-windows\TopBanner.sourcelink.json
+C:\projects\TopBanner\TopBanner\bin\Debug\net8.0-windows\Interop.UIAutomationClient.dll
+C:\projects\TopBanner\TopBanner\bin\Debug\net8.0-windows\UIAutomationClient.FluentExtensions.dll
+C:\projects\TopBanner\TopBanner\bin\Debug\net8.0-windows\UniversalUIAClass.dll
+C:\projects\TopBanner\TopBanner\obj\Debug\net8.0-windows\TopBanner.csproj.AssemblyReference.cache
+C:\projects\TopBanner\TopBanner\obj\Debug\net8.0-windows\TopBanner.csproj.Up2Date
